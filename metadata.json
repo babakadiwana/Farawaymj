@@ -1,0 +1,6 @@
+{
+  "name": "MJ Assistant Cloud Sync",
+  "description": "Premium multi-device AI ecosystem for Team Mahakal, featuring real-time synchronization of tasks, reminders, clipboards, and vocal AI interactions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
